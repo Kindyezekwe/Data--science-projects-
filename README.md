@@ -1,1 +1,1 @@
-# Titanic-ML-from-disaster
+#Kaggle Competitions
